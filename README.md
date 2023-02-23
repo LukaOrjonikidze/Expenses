@@ -8,5 +8,9 @@ run npm install and then npm start.
 Visit my deployed website.
 https://lukexpenses.netlify.app/
 
+# Screenshot
+![image](https://i.imgur.com/2MLV1Pv.png)
+
+
 # Technology
 This Application is written in React.
